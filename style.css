@@ -1,0 +1,109 @@
+/*Helvetica*/
+
+h1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 50px;
+}
+h2 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 25px;
+}
+h3 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 15.4px;
+}
+p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+table {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    margin-bottom: 5%;
+    align-self: center;
+}
+blockquote {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+pre {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 18.5714px;
+}
+
+/*Helvetica*/
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-top: 0;
+    color: #444;
+}
+ 
+html,
+body,
+div {
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;    
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;    
+}
+
+#page {
+    padding: 0 25%;
+}
+
+#header {
+    padding-top: 10%;
+}
+
+#footer {
+    padding-top: 2.5%;
+}
+
+#content {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    width: 90px;
+}
+
+p {
+    line-height: 2em;
+}
